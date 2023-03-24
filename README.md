@@ -1,7 +1,7 @@
-# [Exploratory data analysis for the IceCube project](https://nbviewer.jupyter.org/github/Nanobelka/Kaggle/blob/main/IceCube/IceCube_1_EDA.ipynb)
+# [Exploratory data analysis for the IceCube project](https://nbviewer.jupyter.org/github/Nanobelka/IceCube/blob/main/IceCube_1_EDA.ipynb)
 ## Determine neutrino trajectories based on data provided by the IceCube neutrino observatory.
 
-[Competition on Kaggle](https://www.kaggle.com/competitions/icecube-neutrinos-in-deep-ice/)
+[Competition on Kaggle](https://www.kaggle.com/competitions/icecube-neutrinos-in-deep-ice/)  
 [Notebook on Kaggle](https://www.kaggle.com/code/nanobelka70spb/icecube-1-eda)
 
 **Initiator:** [IceCube neutrino observatory](https://icecube.wisc.edu/).
