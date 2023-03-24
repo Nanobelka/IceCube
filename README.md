@@ -1,3 +1,5 @@
+![IceCube competition on Kaggle](https://github.com/Nanobelka/IceCube/blob/main/images/competition_logo.png)
+
 # [Exploratory data analysis for the IceCube project](https://nbviewer.jupyter.org/github/Nanobelka/IceCube/blob/main/IceCube_1_EDA.ipynb)
 ## Determine neutrino trajectories based on data provided by the IceCube neutrino observatory.
 
